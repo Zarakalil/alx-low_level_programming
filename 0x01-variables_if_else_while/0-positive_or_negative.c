@@ -1,13 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - A program to assign a random number to a variable
  * Return: 0 (Success)
  */
 
 int main(void)
-
 {
 	int n;
 
@@ -25,4 +25,5 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
+	return (0);
 }
