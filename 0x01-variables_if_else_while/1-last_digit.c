@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-i
+
 /**
  * main - A program to assign a random number to a variable
  * Return: 0 (Success)
