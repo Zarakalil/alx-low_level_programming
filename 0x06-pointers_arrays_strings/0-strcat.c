@@ -7,14 +7,13 @@
  * Return: 0
  */
 int main(void)
-
-Char *_strcat(char *dest, char *src)
 {
+Char *_strcat(char *dest, char *src)
 	int i;
 	int j;
 
 	i = 0;
-	while (dest[i] != '\0')
+	whilei (dest[i] != '\0')
 	{
 		i++;
 	}
