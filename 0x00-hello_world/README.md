@@ -1,1 +1,1 @@
-A directory to operate from
+A new directory to work from
