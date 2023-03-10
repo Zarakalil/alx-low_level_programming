@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * factorial(int n)
+ * factorial(int n) - returns factorial of num
  * @n: returns factorial of number
  * Return: integer
  */
@@ -10,5 +10,5 @@ int factorial(int n)
 		return (-1);
 	if (n == 1)
 		return (1);
-	return (n * factorial(n-1));
+	return (n * factorial(n - 1));
 }
